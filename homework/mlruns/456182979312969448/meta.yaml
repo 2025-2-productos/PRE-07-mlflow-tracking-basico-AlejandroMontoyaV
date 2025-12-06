@@ -1,0 +1,6 @@
+artifact_location: file:c:\Users\Alejandro Montoya V\Documents\Productos de datos\PRE-07-mlflow-tracking-basico-AlejandroMontoyaV\homework\mlruns/456182979312969448
+creation_time: 1765036731717
+experiment_id: '456182979312969448'
+last_update_time: 1765036731717
+lifecycle_stage: active
+name: wine_quality_experiment

@@ -1,0 +1,10 @@
+artifact_location: file:c:\Users\Alejandro Montoya V\Documents\Productos de datos\PRE-07-mlflow-tracking-basico-AlejandroMontoyaV\homework\mlruns/456182979312969448/models/m-092b33b515284048a5dcda1dc391c63f/artifacts
+creation_timestamp: 1765036741387
+experiment_id: '456182979312969448'
+last_updated_timestamp: 1765036746084
+model_id: m-092b33b515284048a5dcda1dc391c63f
+model_type: null
+name: model
+source_run_id: 7b85d7011eeb442d9ceb8cc773a10d94
+status: 2
+status_message: null

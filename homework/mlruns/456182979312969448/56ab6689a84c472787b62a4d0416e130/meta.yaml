@@ -1,0 +1,14 @@
+artifact_uri: file:c:\Users\Alejandro Montoya V\Documents\Productos de datos\PRE-07-mlflow-tracking-basico-AlejandroMontoyaV\homework\mlruns/456182979312969448/56ab6689a84c472787b62a4d0416e130/artifacts
+end_time: 1765036737680
+entry_point_name: ''
+experiment_id: '456182979312969448'
+lifecycle_stage: active
+run_id: 56ab6689a84c472787b62a4d0416e130
+run_name: elasticnet_2762af0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036732428
+status: 3
+tags: []
+user_id: Alejandro Montoya V

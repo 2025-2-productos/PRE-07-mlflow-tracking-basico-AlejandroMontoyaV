@@ -17,9 +17,9 @@ RANDOM_STATE = 123456
 
 
 def main():
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    MLRUNS_PATH = os.path.join(os.path.dirname(BASE_DIR), "mlruns")
-    mlflow.set_tracking_uri(f"file:{MLRUNS_PATH}")
+    # BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    # MLRUNS_PATH = os.path.join(os.path.dirname(BASE_DIR), "mlruns")
+    # mlflow.set_tracking_uri(f"file:{MLRUNS_PATH}")
 
     args = parse_argument()
     model = select_model(args)
